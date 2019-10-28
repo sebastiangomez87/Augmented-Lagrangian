@@ -1,4 +1,6 @@
 # Augmented-Lagrangian
+Authors: Xiaojun Guan and Sebastian Gomez
+
 Implementation of the augmented Lagrangian algorithm in Julia
 
 For the equality problems
